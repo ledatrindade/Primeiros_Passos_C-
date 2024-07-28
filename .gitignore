@@ -1,0 +1,10 @@
+# Diretórios de build
+/PrimeirosCodigos/bin/
+/PrimeirosCodigos/obj/
+
+# Arquivo de solução
+PrimeirosCodigos.sln
+
+# Configurações do VSCode
+.vscode/
+
